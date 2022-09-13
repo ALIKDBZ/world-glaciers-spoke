@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>World Glaciers</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_798632_world_gla_world_glaciers</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:41:11</sys_created_on>
+        <sys_id>cc565f5797b15110b1ad797e6253af77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>World Glaciers</sys_name>
+        <sys_package display_value="World Glaciers Spoke" source="x_798632_world_gla">220b1b4b97751110b1ad797e6253af66</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">220b1b4b97751110b1ad797e6253af66</sys_scope>
+        <sys_update_name>sys_db_object_cc565f5797b15110b1ad797e6253af77</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:41:11</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_798632_world_gla.world_glaciers_user" name="x_798632_world_gla.world_glaciers_user">c766df5797b15110b1ad797e6253afc2</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="World Glaciers Spoke">220b1b4b97751110b1ad797e6253af66</application>
+        <file_path/>
+        <instance_id>5dce708bdb6c7b004d2bac44d4961959</instance_id>
+        <instance_name>dev79078</instance_name>
+        <name>sys_db_object_cc565f5797b15110b1ad797e6253af77</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>World Glaciers</label><live_feed_enabled>false</live_feed_enabled><name>x_798632_world_gla_world_glaciers</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-13 09:41:11</sys_created_on><sys_id>cc565f5797b15110b1ad797e6253af77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>World Glaciers</sys_name><sys_package display_value="World Glaciers Spoke" source="x_798632_world_gla">220b1b4b97751110b1ad797e6253af66</sys_package><sys_policy/><sys_scope display_value="World Glaciers Spoke">220b1b4b97751110b1ad797e6253af66</sys_scope><sys_update_name>sys_db_object_cc565f5797b15110b1ad797e6253af77</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-13 09:41:11</sys_updated_on><update_access>false</update_access><user_role display_value="x_798632_world_gla.world_glaciers_user" name="x_798632_world_gla.world_glaciers_user">c766df5797b15110b1ad797e6253afc2</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>113637354</payload_hash>
+        <record_name>World Glaciers</record_name>
+        <reverted_from/>
+        <source>a60bd74b97b51110b1ad797e6253af47</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:41:12</sys_created_on>
+        <sys_id>9366139797b15110b1ad797e6253af1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18336395d240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:41:12</sys_updated_on>
+        <type>Table</type>
+        <update_guid>db66139708b1511025419cd134e9951a</update_guid>
+        <update_guid_history>db66139708b1511025419cd134e9951a:113637354</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 09:44:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>6455d7359f9046f2b9a4f8800637c144</sys_id>
+        <sys_metadata>cc565f5797b15110b1ad797e6253af77</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>World Glaciers</sys_name>
+        <sys_package display_value="World Glaciers Spoke" source="x_798632_world_gla">220b1b4b97751110b1ad797e6253af66</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">220b1b4b97751110b1ad797e6253af66</sys_scope>
+        <sys_scope_delete display_value="">178af28badce4ea082a0be164ccea400</sys_scope_delete>
+        <sys_update_name>sys_db_object_cc565f5797b15110b1ad797e6253af77</sys_update_name>
+        <sys_update_version display_value="sys_db_object_cc565f5797b15110b1ad797e6253af77">9366139797b15110b1ad797e6253af1b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 09:44:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
